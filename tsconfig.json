@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+		"forceConsistentCasingInFileNames": true,
+    "target": "es2016",
+    "moduleResolution": "node",
+    "newLine": "lf",
+    "outDir": "./dist/",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    "pretty": true,
+    "sourceMap": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
+}
